@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog default_button="true" id="100" title="PartAxis">
+	<vbox>
+		<bool id="101" label="Show axis" />
+		<bool id="102" label="Express shear and scale" />
+		<float id="103" label="Axis length" unit="mm" />
+		<push-button id="104" label="Delete attribute" terminator="true" />
+	</vbox>
+</dialog>

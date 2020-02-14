@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog default_button="true" id="100" title="PartAxis">
+	<vbox>
+		<bool id="101" label="軸を表示" />
+		<bool id="102" label="せん断とスケールを反映" />
+		<float id="103" label="軸の長さ" unit="mm" />
+		<push-button id="104" label="属性削除" terminator="true" />
+	</vbox>
+</dialog>
