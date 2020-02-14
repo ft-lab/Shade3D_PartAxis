@@ -20,7 +20,7 @@ https://github.com/ft-lab/Shade3D_PartAxis/releases
 
 ### プラグインを配置し、Shade3Dを起動
 Winの場合は、ビルドされた PartAxis64.dll をShade3Dのpluginsディレクトリに格納してShade3Dを起動。  
-Macの場合は、ビルドされた PartAxis64.shdpluginをShade3Dのpluginsディレクトリに格納してShade3Dを起動。   
+Macの場合は、ビルドされた PartAxis.shdpluginをShade3Dのpluginsディレクトリに格納してShade3Dを起動。   
 ブラウザの「情報」をクリックして表示されるコンテキストメニューで「PartAxis」が表示されるのを確認します。   
 
 
@@ -38,7 +38,7 @@ Macの場合は、ビルドされた PartAxis64.shdpluginをShade3Dのpluginsデ
 個々の形状に対してこの割り当てを行うことで、シーン上の複数のパートに対して座標軸を表示できます。    
 <img src="./images/partAxis_00.jpg"/>  
 
-なお、この図形ウィンドウ上で座標軸をクリックすることで、パートを選択することができます。     
+なお、この図形ウィンドウ上で座標軸をクリックすることでパートを選択することができます。     
 座標軸はパートでなくても指定できます。    
 
 ## PartAxisダイアログボックスの指定
